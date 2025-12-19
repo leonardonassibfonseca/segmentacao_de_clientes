@@ -204,7 +204,7 @@ Os três clusters finais representam perfis bem definidos e refletem um cenário
 
 Em síntese, o modelo final baseado em K-Means com três clusters apresentou um equilíbrio adequado entre qualidade estatística, estabilidade do agrupamento e valor estratégico para o negócio, cumprindo o objetivo central do projeto de apoiar decisões orientadas por dados na gestão de clientes.
 
-### Relatório Gerencial de Resultados: https://github.com/leonardonassibfonseca/case_indicium/blob/main/Relat%C3%B3rio%20Gerencial%20de%20Resultados.pdf
+### Relatório Final de Resultados: https://github.com/leonardonassibfonseca/segmentacao_de_clientes/blob/main/Relat%C3%B3rio%20Final%20de%20Resultados.pdf
 
 ## 10.	Próximos passos
 •	Utilizar outras técnicas para tratamento de grandes dados;
